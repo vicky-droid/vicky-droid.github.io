@@ -1,5 +1,2 @@
 # My Portfolio
-My personal website and portfolio!
-
-TODO:
-Implement my blog!
+Visit my personal website and portfolio! @ https://vicky-droid.github.io/
